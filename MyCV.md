@@ -35,7 +35,7 @@ Hefei
 ### **Cambricon SinGo** `2022.7 - Present`
 
 _Software Engineering_<br>
-Worked with a team on Research and development of market-oriented chips for autonomous driving. Our team focus on the DSP. I am committed to the development of operator optimization, mainly CV operators, and algorithm optimization. Our goal is to create a reliable and high-performance DSP.
+Worked with a team on research and development of market-oriented chips for autonomous driving. Our team focus on the DSP. I am committed to the development of operator optimization, mainly CV operators, and algorithm optimization. Our goal is to create a reliable and high-performance DSP.
 
 
 ## Honors & Awards
